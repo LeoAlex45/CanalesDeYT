@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(182, 40, 71);
+}
+#gif{
+    background-color: rgb(248, 53, 101);
+    right: -1%;
+}
+#covers{
+    right: -55%;
+    background-color: brown;
+}
+.fotito {
+    position: relative;
+    width: 20%;
+    height: 20%;
+    border: solid 12px magenta;
+    border-radius: 50px;
+}
+.when {
+    position: absolute;
+    width: 23%;
+    border: solid 12px magenta;
+    border-radius: 50px;
+    bottom: 2%;
+    left: 38%;
+}
+.botonepico {
+    width: 22%;
+    color: rgb(221, 108, 93);
+    background-color: rgb(112, 14, 14);
+    font-style: italic;
+    position: relative;
+}
+.botonepicoo {
+    width: 22%;
+    color: rgb(221, 108, 93);
+    background-color: rgb(112, 14, 14);
+    font-style: italic;
+    position: absolute;
+    left: 39.2%;
+    top: 43%;
+}
+#botonepico{
+    bottom: 40%;
+    left: 0.5%;
+}
+#botonepico3{
+    bottom: -4%;
+    right: -54.2%;
+}
